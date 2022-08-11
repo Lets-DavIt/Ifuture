@@ -24,7 +24,9 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Labbedit, site mobile first criado para fins didáticos do curso Web Full Stack da Labenu.
+Ifuture, site mobile first criado para fins didáticos do curso Web Full Stack da Labenu.
+O site tenta criar uma versão simplificada da grande marca Ifood.
+Principais tecnologias: React JS, Styled-Components, Material UI, Hooks, API Rest, Router e Context.
 
 ## 🚀 Como executar
 
@@ -35,7 +37,6 @@ $ git clone https://github.com/Lets-DavIt/Lets-DavIt/edit/main/projetos/projeto-
 Acessar o repertório:
 ```bash
 $ cd https://github.com/Lets-DavIt/Lets-DavIt/edit/main/projetos/projeto-labeddit
-
 ```
 ****
 ## ✒️ Author
