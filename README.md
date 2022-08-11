@@ -7,7 +7,7 @@
   
 
 
-<p align="center">![screencapture-davi-labefood-surge-sh-2022-08-09-19_05_08](https://user-images.githubusercontent.com/98923819/184248020-b8ff56e6-8a64-4310-b723-b8125e4db99c.png)</p>
+<p align="center"><img src='https://user-images.githubusercontent.com/98923819/184248020-b8ff56e6-8a64-4310-b723-b8125e4db99c.png' alt='print'></p>
 
 
 
