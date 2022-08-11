@@ -32,12 +32,14 @@ Principais tecnologias: React JS, Styled-Components, Material UI, Hooks, API Res
 
  Clonar o repositorio:
 ```bash
-$ git clone https://github.com/Lets-DavIt/Lets-DavIt/edit/main/projetos/projeto-labeddit
+$ git clone https://github.com/Lets-DavIt/Ifuture.git
 ```
 Acessar o repertório:
 ```bash
-$ cd https://github.com/Lets-DavIt/Lets-DavIt/edit/main/projetos/projeto-labeddit
+$ cd https://github.com/Lets-DavIt/Ifuture.git
 ```
+Acessar site no surge:
+- davi-labefood.surge.sh
 ****
 ## ✒️ Author
 
