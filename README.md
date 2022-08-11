@@ -39,7 +39,7 @@ Acessar o repertório:
 $ cd https://github.com/Lets-DavIt/Ifuture.git
 ```
 Acessar site no surge:
-- <a href="davi-labefood.surge.sh" target="_blank">davi-labefood.surge.sh</a>
+- <a href="https://davi-labefood.surge.sh/" target="blank">davi-labefood.surge.sh</a>
 ****
 ## ✒️ Author
 
